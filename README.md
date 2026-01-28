@@ -23,6 +23,8 @@ The analysis also focuses on detecting **seasonal patterns** and **key revenue d
 - **Business Analytics & Reporting**
 
 ---
+<img width="1067" height="597" alt="image" src="https://github.com/user-attachments/assets/21190d25-69b6-4895-aea6-19587bb81e5e" />
+
 
 ## 📊 NovaKart Performance Snapshot (2014–2017)
 
